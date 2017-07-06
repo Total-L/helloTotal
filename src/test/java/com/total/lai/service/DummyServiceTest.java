@@ -7,6 +7,7 @@ import org.junit.Test;
 import com.total.lai.service.impl.DummyServiceImpl;
 
 public class DummyServiceTest {
+	//test github webhook
 	
 	@Test
 	public void testAdd() {
